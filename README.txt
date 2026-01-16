@@ -1,1 +1,2 @@
-Webpage detailing about RAG project
+Webpage detailing about Lifelong Learning Manager App project
+
